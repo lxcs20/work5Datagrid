@@ -1,0 +1,10 @@
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\bin\Debug\DataGridview.exe.config
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\bin\Debug\DataGridview.exe
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\bin\Debug\DataGridview.pdb
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.csproj.AssemblyReference.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.Form1.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.Properties.Resources.resources
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.csproj.GenerateResource.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.csproj.CoreCompileInputs.cache
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.exe
+D:\Lesson\2CS1 Term2 2021-2022\Database_Programming\Lab\DataGridview\DataGridview\obj\Debug\DataGridview.pdb
